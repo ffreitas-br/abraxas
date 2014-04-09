@@ -1,0 +1,10 @@
+TAP version 13
+ok 1 - Icecave\Abraxas\PasswordGeneratorTest::testDefaultCharacterSet
+ok 2 - Icecave\Abraxas\PasswordGeneratorTest::testAllowUppercase
+ok 3 - Icecave\Abraxas\PasswordGeneratorTest::testAllowDigits
+ok 4 - Icecave\Abraxas\PasswordGeneratorTest::testAllowSymbols
+ok 5 - Icecave\Abraxas\PasswordGeneratorTest::testAllowAmbiguousCharacters
+ok 6 - Icecave\Abraxas\PasswordGeneratorTest::testGenerate
+ok 7 - Icecave\Abraxas\PasswordGeneratorTest::testGenerateWithCustomLength
+ok 8 - Icecave\Abraxas\PasswordGeneratorTest::testGenerateFunctional
+1..8

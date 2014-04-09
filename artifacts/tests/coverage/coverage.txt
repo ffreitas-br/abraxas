@@ -1,0 +1,12 @@
+
+
+Code Coverage Report 
+  2014-04-09 00:52:36
+
+ Summary: 
+  Classes: 100.00% (2/2)
+  Methods: 100.00% (15/15)
+  Lines:   100.00% (53/53)
+
+\Icecave\Abraxas::PasswordGenerator
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 53/ 53)

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1397004756">
+  <project timestamp="1397004756">
+    <package name="Icecave\Abraxas">
+      <file name="/home/travis/build/IcecaveStudios/abraxas/src/PackageInfo.php">
+        <class name="PackageInfo" namespace="Icecave\Abraxas">
+          <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="8" ncloc="8" classes="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+      <file name="/home/travis/build/IcecaveStudios/abraxas/src/PasswordGenerator.php">
+        <class name="PasswordGenerator" namespace="Icecave\Abraxas">
+          <metrics methods="15" coveredmethods="15" conditionals="0" coveredconditionals="0" statements="53" coveredstatements="53" elements="68" coveredelements="68"/>
+        </class>
+        <line num="8" type="method" name="__construct" crap="2" count="8"/>
+        <line num="10" type="stmt" count="8"/>
+        <line num="11" type="stmt" count="1"/>
+        <line num="14" type="stmt" count="8"/>
+        <line num="15" type="stmt" count="8"/>
+        <line num="21" type="method" name="minimumLength" crap="1" count="3"/>
+        <line num="23" type="stmt" count="3"/>
+        <line num="31" type="method" name="setMinimumLength" crap="1" count="1"/>
+        <line num="33" type="stmt" count="1"/>
+        <line num="34" type="stmt" count="1"/>
+        <line num="41" type="method" name="maximumLength" crap="1" count="3"/>
+        <line num="43" type="stmt" count="3"/>
+        <line num="51" type="method" name="setMaximumLength" crap="1" count="1"/>
+        <line num="53" type="stmt" count="1"/>
+        <line num="54" type="stmt" count="1"/>
+        <line num="62" type="method" name="allowUppercase" crap="1" count="8"/>
+        <line num="64" type="stmt" count="8"/>
+        <line num="72" type="method" name="setAllowUppercase" crap="1" count="1"/>
+        <line num="74" type="stmt" count="1"/>
+        <line num="75" type="stmt" count="1"/>
+        <line num="76" type="stmt" count="1"/>
+        <line num="83" type="method" name="allowDigits" crap="1" count="8"/>
+        <line num="85" type="stmt" count="8"/>
+        <line num="93" type="method" name="setAllowDigits" crap="1" count="1"/>
+        <line num="95" type="stmt" count="1"/>
+        <line num="96" type="stmt" count="1"/>
+        <line num="97" type="stmt" count="1"/>
+        <line num="107" type="method" name="allowSymbols" crap="1" count="8"/>
+        <line num="109" type="stmt" count="8"/>
+        <line num="117" type="method" name="setAllowSymbols" crap="1" count="1"/>
+        <line num="119" type="stmt" count="1"/>
+        <line num="120" type="stmt" count="1"/>
+        <line num="121" type="stmt" count="1"/>
+        <line num="131" type="method" name="allowAmbiguousCharacters" crap="1" count="8"/>
+        <line num="133" type="stmt" count="8"/>
+        <line num="141" type="method" name="setAllowAmbiguousCharacters" crap="1" count="1"/>
+        <line num="143" type="stmt" count="1"/>
+        <line num="144" type="stmt" count="1"/>
+        <line num="145" type="stmt" count="1"/>
+        <line num="152" type="method" name="generate" crap="2" count="3"/>
+        <line num="154" type="stmt" count="3"/>
+        <line num="155" type="stmt" count="3"/>
+        <line num="156" type="stmt" count="3"/>
+        <line num="157" type="stmt" count="3"/>
+        <line num="159" type="stmt" count="3"/>
+        <line num="160" type="stmt" count="3"/>
+        <line num="161" type="stmt" count="3"/>
+        <line num="163" type="stmt" count="3"/>
+        <line num="165" type="stmt" count="3"/>
+        <line num="166" type="stmt" count="3"/>
+        <line num="167" type="stmt" count="3"/>
+        <line num="169" type="stmt" count="3"/>
+        <line num="177" type="method" name="characterSet" crap="6" count="8"/>
+        <line num="179" type="stmt" count="8"/>
+        <line num="180" type="stmt" count="8"/>
+        <line num="182" type="stmt" count="8"/>
+        <line num="183" type="stmt" count="7"/>
+        <line num="186" type="stmt" count="8"/>
+        <line num="187" type="stmt" count="7"/>
+        <line num="190" type="stmt" count="8"/>
+        <line num="191" type="stmt" count="7"/>
+        <line num="194" type="stmt" count="8"/>
+        <line num="195" type="stmt" count="1"/>
+        <line num="196" type="stmt" count="1"/>
+        <line num="197" type="stmt" count="1"/>
+        <line num="198" type="stmt" count="1"/>
+        <line num="199" type="stmt" count="1"/>
+        <line num="203" type="stmt" count="8"/>
+        <line num="215" type="stmt" count="0"/>
+        <metrics loc="214" ncloc="137" classes="1" methods="15" coveredmethods="15" conditionals="0" coveredconditionals="0" statements="53" coveredstatements="53" elements="68" coveredelements="68"/>
+      </file>
+    </package>
+    <file name="/home/travis/build/IcecaveStudios/abraxas/src/PasswordGeneratorInterface.php">
+      <line num="13" type="stmt" count="0"/>
+      <metrics loc="12" ncloc="7" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <metrics files="3" loc="234" ncloc="152" classes="2" methods="15" coveredmethods="15" conditionals="0" coveredconditionals="0" statements="53" coveredstatements="53" elements="68" coveredelements="68"/>
+  </project>
+</coverage>
