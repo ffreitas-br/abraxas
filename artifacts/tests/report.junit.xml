@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="" tests="8" assertions="21" failures="0" errors="0" time="0.155780">
-    <testsuite name="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" namespace="Icecave\Abraxas" fullPackage="Icecave.Abraxas" tests="8" assertions="21" failures="0" errors="0" time="0.155780">
-      <testcase name="testDefaultCharacterSet" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="15" assertions="1" time="0.025296"/>
-      <testcase name="testAllowUppercase" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="23" assertions="1" time="0.008051"/>
-      <testcase name="testAllowDigits" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="33" assertions="1" time="0.007757"/>
-      <testcase name="testAllowSymbols" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="43" assertions="1" time="0.008101"/>
-      <testcase name="testAllowAmbiguousCharacters" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="53" assertions="1" time="0.008521"/>
-      <testcase name="testGenerate" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="63" assertions="3" time="0.036070"/>
-      <testcase name="testGenerateWithCustomLength" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="106" assertions="3" time="0.024736"/>
-      <testcase name="testGenerateFunctional" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="147" assertions="10" time="0.037248"/>
+  <testsuite name="" tests="8" assertions="21" failures="0" errors="0" time="0.143628">
+    <testsuite name="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" namespace="Icecave\Abraxas" fullPackage="Icecave.Abraxas" tests="8" assertions="21" failures="0" errors="0" time="0.143628">
+      <testcase name="testDefaultCharacterSet" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="15" assertions="1" time="0.023556"/>
+      <testcase name="testAllowUppercase" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="23" assertions="1" time="0.007323"/>
+      <testcase name="testAllowDigits" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="33" assertions="1" time="0.007643"/>
+      <testcase name="testAllowSymbols" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="43" assertions="1" time="0.007636"/>
+      <testcase name="testAllowAmbiguousCharacters" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="53" assertions="1" time="0.007662"/>
+      <testcase name="testGenerate" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="63" assertions="3" time="0.032336"/>
+      <testcase name="testGenerateWithCustomLength" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="106" assertions="3" time="0.022897"/>
+      <testcase name="testGenerateFunctional" class="Icecave\Abraxas\PasswordGeneratorTest" file="/home/travis/build/IcecaveStudios/abraxas/test/suite/PasswordGeneratorTest.php" line="147" assertions="10" time="0.034575"/>
     </testsuite>
   </testsuite>
 </testsuites>
