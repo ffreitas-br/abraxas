@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1397005556">
-  <project timestamp="1397005556">
+<coverage generated="1397017337">
+  <project timestamp="1397017337">
     <package name="Icecave\Abraxas">
       <file name="/home/travis/build/IcecaveStudios/abraxas/src/PackageInfo.php">
         <class name="PackageInfo" namespace="Icecave\Abraxas">
